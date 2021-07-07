@@ -1,0 +1,12 @@
+C:\Users\c_wad\OneDrive\Projects\EmployeeRecord\EmployeeRecord\bin\Debug\EmployeeRecord.exe.config
+C:\Users\c_wad\OneDrive\Projects\EmployeeRecord\EmployeeRecord\bin\Debug\EmployeeRecord.exe
+C:\Users\c_wad\OneDrive\Projects\EmployeeRecord\EmployeeRecord\bin\Debug\EmployeeRecord.pdb
+C:\Users\c_wad\OneDrive\Projects\EmployeeRecord\EmployeeRecord\obj\Debug\EmployeeRecord.frmMainMenu.resources
+C:\Users\c_wad\OneDrive\Projects\EmployeeRecord\EmployeeRecord\obj\Debug\EmployeeRecord.Properties.Resources.resources
+C:\Users\c_wad\OneDrive\Projects\EmployeeRecord\EmployeeRecord\obj\Debug\EmployeeRecord.csproj.GenerateResource.cache
+C:\Users\c_wad\OneDrive\Projects\EmployeeRecord\EmployeeRecord\obj\Debug\EmployeeRecord.csproj.CoreCompileInputs.cache
+C:\Users\c_wad\OneDrive\Projects\EmployeeRecord\EmployeeRecord\obj\Debug\EmployeeRecord.exe
+C:\Users\c_wad\OneDrive\Projects\EmployeeRecord\EmployeeRecord\obj\Debug\EmployeeRecord.pdb
+C:\Users\c_wad\OneDrive\Projects\EmployeeRecord\EmployeeRecord\obj\Debug\EmployeeRecord.frmUpdate.resources
+C:\Users\c_wad\OneDrive\Projects\EmployeeRecord\EmployeeRecord\obj\Debug\EmployeeRecord.frmViewEmp.resources
+C:\Users\c_wad\OneDrive\Projects\EmployeeRecord\EmployeeRecord\obj\Debug\EmployeeRecord.csprojAssemblyReference.cache
